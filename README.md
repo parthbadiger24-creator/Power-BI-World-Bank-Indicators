@@ -42,3 +42,12 @@ Turn the World Bank's global development dataset into a browsable, comparative v
 │   └── world_bank_indicators.pbix
 ├── img/
 └── README.md
+```
+
+## ▶️ How to view
+
+Open the `.pbix` in **Power BI Desktop**, or browse the exported PDF in `dashboard/`.
+
+---
+
+<sub>MIT-licensed · Author: [Parth Badiger](https://github.com/parthbadiger24-creator)</sub>
